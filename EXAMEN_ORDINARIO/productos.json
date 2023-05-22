@@ -1,0 +1,29 @@
+[
+	{
+		"precio": 295,
+		"id": 1,
+		"title": "falda1",
+		"thumbnailUrl": "imgs/falda1.jpeg"
+	},
+
+	{
+		"precio": 100,
+		"id": 2,
+		"title": "Tutus",
+		"thumbnailUrl": "imgs/tutu1.jpeg"
+	},
+
+	{
+		"precio": 2000,
+		"id": 3,
+		"title": "Puntas",
+		"thumbnailUrl": "imgs/zapato1.jpeg"
+	},
+
+	{
+		"precio": 450,
+		"id": 4,
+		"title": "Mallas",
+		"thumbnailUrl": "imgs/mallas1.jpeg"
+	
+]
